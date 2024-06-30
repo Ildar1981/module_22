@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(99, 151, 190);
+}
+.header{
+    text-align: center;
+}
+
+.btn{
+    width: fit-content;
+    display: flex;
+    justify-content: space-around;
+    margin: 50px auto;
+}
+
+.btn__icon-first{
+    margin: 30px;
+}
+
+.btn__icon-second{
+    margin: 30px;
+}
+
+.btn__text{
+    margin: 10px;
+    text-align: center;
+}
+
+.btn__icon--hide{
+    display: none;
+}

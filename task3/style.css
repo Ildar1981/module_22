@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(99, 151, 190);
+}
+.btn{
+    position: relative;
+    width: fit-content;
+    display: flex;
+    justify-content:center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+.container{
+    text-align: center;
+    color: brown;
+    font-size: large;
+}

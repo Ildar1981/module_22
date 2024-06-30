@@ -1,0 +1,26 @@
+.btn{
+    width: fit-content;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+    text-align: center;
+    color: brown;
+    font-size: large;
+}
+.container{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+}
+.current-time{
+    text-decoration: overline;
+    top: center;
+}
